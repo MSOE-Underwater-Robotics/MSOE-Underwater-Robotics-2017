@@ -1,0 +1,17 @@
+ROV Controller
+YAxis	YAxis	3	SLIDER	Y Axis	0	1.0	0.0
+XAxis	XAxis	3	SLIDER	X Axis	0	1.0	0.0
+ZAxis	ZAxis	3	SLIDER	Z Axis	0	1.0	0.0
+YRotation	YRotation	3	SLIDER	Y Rotation	0	1.0	0.0
+XRotation	XRotation	3	SLIDER	X Rotation	0	1.0	0.0
+XButton	button 0, x button	1	BUTTON	Button 0	0	0.0	0.0
+TriangleButton	Traingle Button 3	1	BUTTON	Button 3	0	0.0	0.0
+CircleButton	CircleButton 1	1	BUTTON	Button 1	0	0.0	0.0
+SquareButton	Square Button 2	1	BUTTON	Button 2	0	0.0	0.0
+LeftBumper	Left bumper 4	1	BUTTON	Button 4	0	0.0	0.0
+RightBumper	Right bumper 5	1	BUTTON	Button 5	0	0.0	0.0
+SelectButton	Select Button 6	1	BUTTON	Button 6	0	0.0	0.0
+StartButton	Start Button 7	1	BUTTON	Button 7	0	0.0	0.0
+LeftStickButton	Left Stick Button 8	1	BUTTON	Button 8	0	0.0	0.0
+RightStickButton	right Stick Button 9	1	BUTTON	Button 9	0	0.0	0.0
+ArrowDirections	Arrow Direction hat switch	2	HAT	cooliehat: Hat Switch	0	1.0	0.0

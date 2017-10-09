@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GameControlPlus/library/GameControlPlus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/GameControlPlus/library" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/GameControlPlus/src" />
+    </SOURCES>
+  </library>
+</component>

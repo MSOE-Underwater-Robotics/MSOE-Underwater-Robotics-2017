@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DataControl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataControl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

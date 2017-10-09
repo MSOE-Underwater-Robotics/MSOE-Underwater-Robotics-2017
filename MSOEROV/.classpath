@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MSOEROV/GameControlPlus/examples/Configurator"/>
+	<classpathentry kind="src" path="MSOEROV/GameControlPlus/src"/>
+	<classpathentry kind="src" path="MSOEROV/src"/>
+	<classpathentry kind="lib" path="MSOEROV/DataControl.jar"/>
+	<classpathentry kind="lib" path="MSOEROV/GameControlPlus/library/GameControlPlus.jar"/>
+	<classpathentry kind="output" path="MSOEROV/out/production/MSOEROV"/>
+</classpath>

@@ -1,0 +1,22 @@
+ROV Controller
+RightStickY	RightStickY	3	SLIDER	Z Rotation	0	1.0	0.0
+RightStickX	RightStickX	3	SLIDER	Z Axis	0	1.0	0.0
+LeftStickY	LeftStickY	3	SLIDER	Y Axis	0	1.0	0.0
+LeftStickX	LeftStickX	3	SLIDER	X Axis	0	1.0	0.0
+RightTrigger	RightTrigger	3	SLIDER	Y Rotation	0	1.0	0.0
+LeftTrigger	LeftTrigger	3	SLIDER	X Rotation	0	1.0	0.0
+ArrowHat	ArrowHat	2	HAT	cooliehat: Hat Switch	0	1.0	0.0
+SquareButton	SquareButton	1	BUTTON	Button 0	0	0.0	0.0
+XButton	XButton	1	BUTTON	Button 1	0	0.0	0.0
+CircleButton	CircleButton	1	BUTTON	Button 2	0	0.0	0.0
+TriangleButton	TriangleButton	1	BUTTON	Button 3	0	0.0	0.0
+LeftBumperButton	LeftBumperButton	1	BUTTON	Button 4	0	0.0	0.0
+RightBumperButton	RightBumperButton	1	BUTTON	Button 5	0	0.0	0.0
+LeftTriggerButton	LeftTriggerButton	1	BUTTON	Button 6	0	0.0	0.0
+RightTriggerButton	RightTriggerButton	1	BUTTON	Button 7	0	0.0	0.0
+ShareButton	ShareButton	1	BUTTON	Button 8	0	0.0	0.0
+OptionsButton	OptionsButton	1	BUTTON	Button 9	0	0.0	0.0
+LeftStickButton	LeftStickButton	1	BUTTON	Button 10	0	0.0	0.0
+RightStickButton	RightStickButton	1	BUTTON	Button 11	0	0.0	0.0
+PSButton	PSButton	1	BUTTON	Button 12	0	0.0	0.0
+TrackPadButton	TrackPadButton	1	BUTTON	Button 13	0	0.0	0.0
