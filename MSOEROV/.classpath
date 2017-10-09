@@ -6,5 +6,23 @@
 	<classpathentry kind="src" path="MSOEROV/src"/>
 	<classpathentry kind="lib" path="MSOEROV/DataControl.jar"/>
 	<classpathentry kind="lib" path="MSOEROV/GameControlPlus/library/GameControlPlus.jar"/>
+	<classpathentry kind="lib" path="core.jar"/>
+	<classpathentry kind="lib" path="export.txt"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-linux-aarch64.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-linux-i586.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="jogl-all-natives-windows-i586.jar"/>
+	<classpathentry kind="lib" path="jogl-all.jar"/>
 	<classpathentry kind="output" path="MSOEROV/out/production/MSOEROV"/>
 </classpath>
